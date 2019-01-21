@@ -1,4 +1,4 @@
 arn-
 arn:aws:lambda:us-east-1:151096212661:function:codecademyLearnAlexaIntro-ii
 id-
-amzn1.ask.skill.00b39a65-f6ce-49f5-a9c0-15da9f2d26fb
+amzn1.ask.skill.4ec7114c-b331-4d98-b424-b06b70cf9319
