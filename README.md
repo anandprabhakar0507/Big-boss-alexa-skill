@@ -5,7 +5,7 @@ this is amazon alexa skill created by me (ap@anandprabhakar.me) during learning 
 
 ### and then say like "Alexa ask big. boss. to tell me something interesting"
 ### and use the intents below like "Alexa ask big. boss. to tell me something very very interesting"
-### just use you intents after "Alexa ask big. boss. to <your desired intent from below list of intents>"
+### just use you intents after "Alexa ask big. boss. to your desired intent from below list of intents here"
   and thats all.
 
             "intents": [
