@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "big. boss.",
+            "invocationName": "big boss",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
