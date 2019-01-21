@@ -181,7 +181,7 @@ this is amazon alexa skill created by me (ap@anandprabhakar.me) during learning 
                         "second",
                         "first",
                         "foe",
-                        "frienf",
+                        "friend",
                         "steal",
                         "tough",
                         "hard",
