@@ -1,6 +1,0 @@
-new-
-arn:aws:lambda:us-east-1:385621822469:function:alexa-fact-skill-1
-arn-
-arn:aws:lambda:us-east-1:151096212661:function:codecademyLearnAlexaIntro-ii
-id-
-amzn1.ask.skill.4ec7114c-b331-4d98-b424-b06b70cf9319
