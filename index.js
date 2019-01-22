@@ -10,7 +10,7 @@ const FACTS = [
 "do you know that sundarban delta is largest delta in the world and it is situated in west bengal, india.",
 "do you know that the vision capacity of our eyes of five hundred and seventy six megapixels and we can focus more images at faster rate than any artificial cameras.",
 "India is the only country to reach on mars using its mars orbiter mission MOM in its first attempt and The all credits goes to ISRO Indian space research organisation and the budget for this mission was very low as approximately 400 crores.",
-"nalanda a district in bihar contains one of the world&#39;s oldest university named nalanda university and it is now a heritage site and it is the symbol of knowledge and unity among neighbour countries and it is also a pilgrim place for people of many religions,when you go to bihar please have a visit to nalanda.",
+"nalanda a district in bihar contains one of the world and oldest university named nalanda university and it is now a heritage site and it is the symbol of knowledge and unity among neighbour countries and it is also a pilgrim place for people of many religions,when you go to bihar please have a visit to nalanda.",
 "largest mountain peak in the world is mount everest in nepal its height is eight thousand eight hundred and forty eight metres and second largest is kanchanjanghaa in india and its height is about six and half thousand metres.",
 "the ajanta and ellora caves in aurangabad maharashtra is made by cutting a mountain kept inverted and so it is said to be built by the aliens as in the present time none of human made technologies are able to create this type of architecture.",
 "The united nations was established on twenty four of october in year ninteen forty five and united nation is the oragnisation for all nation that maintains peace in world,it has six major parts which solves different problems between and in countries.",
@@ -59,7 +59,7 @@ const handlers = {
 
 exports.handler = function (event, context, callback) {
   const alexa = Alexa.handler(event, context, callback);
-  alexa.appId = "amzn1.ask.skill.4ec7114c-b331-4d98-b424-b06b70cf9319";
+  alexa.appId = "amzn1.ask.skill.cc9de6ba-effa-4c14-9196-c4c825e510be";
   alexa.registerHandlers(handlers);
   alexa.execute();
 };
